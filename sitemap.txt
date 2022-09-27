@@ -1,0 +1,8 @@
+http://example.com/2022/09/25/My-New-Post/
+http://example.com/lib/pace/README.html
+http://example.com/tags/index.html
+http://example.com/resources/index.html
+http://example.com/categories/index.html
+http://example.com/about/index.html
+http://example.com/2022/09/24/hello-world/
+http://example.com/
