@@ -40,4 +40,8 @@
     <loc>http://example.com/2022/09/25/aw-1089/</loc>
     <lastmod>2022-11-19</lastmod>
   </url>
+  <url>
+    <loc>http://example.com/2022/09/29/Django-lesson/</loc>
+    <lastmod>2022-11-19</lastmod>
+  </url>
 </urlset> 
