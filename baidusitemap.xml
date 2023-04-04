@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://example.com/2023/04/04/aw-202/</loc>
+    <lastmod>2023-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2023/04/02/aw-1277/</loc>
+    <lastmod>2023-04-02</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2023/04/02/aw-245/</loc>
+    <lastmod>2023-04-02</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2023/04/02/aw-222/</loc>
+    <lastmod>2023-04-02</lastmod>
+  </url>
+  <url>
     <loc>http://example.com/2022/10/28/MarkDown-math/</loc>
     <lastmod>2023-04-02</lastmod>
   </url>
